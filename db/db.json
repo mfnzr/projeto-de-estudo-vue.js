@@ -87,48 +87,7 @@
         "Salame",
         "Pepino"
       ],
-      "status": "Solicitado"
-    },
-    {
-      "id": "e6a9",
-      "nome": "Jonas",
-      "carne": "Veggie burger",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Cebola roxa",
-        "Tomate"
-      ],
-      "status": "Solicitado"
-    },
-    {
-      "id": "a4e4",
-      "nome": "Joaquim",
-      "carne": "Maminha",
-      "pao": "Parmesão e Orégano",
-      "opcionais": [
-        "Bacon",
-        "Tomate",
-        "Cheddar",
-        "Pepino",
-        "Cebola roxa",
-        "Salame"
-      ],
-      "status": "Solicitado"
-    },
-    {
-      "id": "a00a",
-      "nome": "Joaquim",
-      "carne": "Maminha",
-      "pao": "Parmesão e Orégano",
-      "opcionais": [
-        "Bacon",
-        "Salame",
-        "Cebola roxa",
-        "Cheddar",
-        "Tomate",
-        "Pepino"
-      ],
-      "status": "Solicitado"
+      "status": "Finalizado"
     },
     {
       "id": "8358",
@@ -139,7 +98,15 @@
         "Tomate",
         "Cebola roxa"
       ],
-      "status": "Solicitado"
+      "status": "Finalizado"
+    },
+    {
+      "id": "618c",
+      "nome": "Zelda",
+      "carne": "Alcatra",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [],
+      "status": "Em produção"
     }
   ]
 }
